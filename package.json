@@ -5,9 +5,11 @@
         "build": "vite build"
     },
     "devDependencies": {
-        "now":"21.0",
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.2",
         "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "vercel-php": "^0.5.2"
     }
 }
