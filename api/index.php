@@ -1,4 +1,4 @@
 <?php
 
 // Forward Vercel requests to normal index.php
-echo("qwe");
+require __DIR__ . '/../public/index.php';
